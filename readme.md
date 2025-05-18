@@ -6,4 +6,4 @@
 
 Below is the database schema diagram for the Ecommerce Backend:
 
-![Database Schema Diagram](databaseSchemadiagram.png)
+![Database Schema Diagram](databaseSchemaDiagram.png)
