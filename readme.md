@@ -1,11 +1,11 @@
-# Ecommerce Backend
+# Ecommerce Backend (Authored by Saad)
 ## Setup Instructions
 
 #### Install All Packages
 I have created a requirement file with the name of requirements.txt.
 Please run the below command to install the packages
 
-Using Python 3.8
+I am using Python 3.8
 
 ```bash
 pip install -r requirements.txt
