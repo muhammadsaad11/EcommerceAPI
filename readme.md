@@ -1,4 +1,14 @@
 # Ecommerce Backend
+## Setup Instructions
+
+### Install All Packages
+I have created a requirement file with the name of requirements.txt.
+Please run the command
+
+```bash
+pip install -r requirements.txt
+```
+
 
 
 
