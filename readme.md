@@ -18,7 +18,10 @@ I have created the schema for MySql databases and a seeder file to create and po
 python databaseSeeder.py
 ```
 
+For efficiency I have also used pagination in data fetching from the API.
+
 ## Database
+I have tried to normalize the database structure as much as possible.
 #### User
 This table has the user information in it. For simplicity I am using the same table to store customer and company users. 
 The company_user field is its identifier. 
